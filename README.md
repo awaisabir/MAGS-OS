@@ -44,7 +44,7 @@ This will create all the associated obj files, and also produce a disk image, wh
 qemu-system-i386 -fda basekernel.img
 ```
 
-You can find all the relevant back-end structure expained fully in detail from Prof. Doughlas Thain's project @ https://github.com/dtain/basekernel , and also what we were able to create in the report attached to the project.
+You can find all the relevant back-end structure expained fully in detail from Prof. Doughlas Thain's project @ https://github.com/dthain/basekernel , and also what we were able to create in the report attached to the project.
 
 Thank you,
 Muhammad Awais Qureshi.
