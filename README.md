@@ -23,7 +23,7 @@ possible implementation of a scroll option was attempted as well. These
 changes together with the original Basekernel, is collectively known as
 MAGS-OS.
 
-# #######README FOR basekernel starts after this point############### 
+# README FOR basekernel starts after this point. 
 
 
 
