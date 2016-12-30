@@ -96,22 +96,22 @@ it out to a physical CD, and use it to boot a real machine.
 Now that you have the code running, here is a whole raft of ideas to
 try, starting some single-line code changes to more elaborate projects:
 
-* Modify main.c to display a custom startup message to welcome the user.
+* Modify main.c to display a custom startup message to welcome the user. #(Done by MAGS-OS)
 
-* Tweak console.c to display things in a color of your choosing.
+* Tweak console.c to display things in a color of your choosing. #(Done by MAGS-OS)
 
 * Examine the rtc.c module, and write a little code in main.c
-that will display a real-time clock.
+that will display a real-time clock. #(Done by MAGS-OS)
 
 * Modify the infinite loop in main.c to display a kernel command
 prompt, and read some commands from the user to do things like 
-show system statistics, display the current time, reboot, etc.
+show system statistics, display the current time, reboot, etc. #(Done by MAGS-OS)
 
 * Add some functions for drawing lines and shapes to graphics.c, and then use
 in main.c to make an interesting status display for your operating system.
 
 * Modify the console code so that it scrolls the display up when you
-reach the bottom, rather than clearing and starting over.
+reach the bottom, rather than clearing and starting over. #(Attempted by MAGS-OS)
 
 * Try writing to an address somewhere into the (unmapped) user address space
 above 0x80000000.  Notice how you get a page fault, and the system halts?
